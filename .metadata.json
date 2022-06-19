@@ -1,0 +1,10 @@
+[
+  {
+    "package": "RGeckoboard",
+    "oncran": true
+  },
+  {
+    "package": "RMixpanel",
+    "oncran": true
+  }
+]
