@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "RGeckoboard"]
-	path = RGeckoboard
-	url = https://github.com/ploner/rgeckoboard
 [submodule "RMixpanel"]
 	path = RMixpanel
 	url = https://github.com/ploner/rmixpanel
